@@ -9,3 +9,5 @@ Low, mid, and high-fidelity are the levels described with wireframes. At a low f
 # Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
 
 I believe they typically are. By tackling the design process in this way, we can identify potential issues with the designs we have in mind: well before we ever have to write code. This means that it has a cascading effect on the amount of effort that would otherwise have to be expended in correcting these issues down the line.
+
+[Paired-Project](https://github.com/CyberTomB/dragonharmony)

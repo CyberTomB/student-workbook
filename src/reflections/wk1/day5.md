@@ -1,4 +1,4 @@
-## Thoughts on Week 1
+# Thoughts on Week 1 (Day 5)
 
 I've learned a lot already and I'm extremely excited to learn even more! I feel like I've done a good job of being prepared for what this course is going to bring, but I've already stumbled into a few hurdles I couldn't have predicted. However, across the projects we were assigned this week, I feel I've truly gained a solid grasp on the fundamentals of designing webpages with Bootstrap.
 

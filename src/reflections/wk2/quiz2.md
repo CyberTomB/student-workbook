@@ -26,7 +26,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-2 - the index starts at 0 from left to right
+It's 2 -- the index starts at 0 from left to right
 ```
 **5.** With these two objects: 
 ```js
@@ -42,8 +42,8 @@ you.friends.push(them)
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-if(condition){
-
+if((2+2) == 5){
+  console.log('It must be 1984!')
 }
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?

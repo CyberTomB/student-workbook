@@ -11,3 +11,6 @@ Hoisting means to bring information in your program document to the top of the d
 ## In what cases might you use let vs const vs var?
 
 In general, it's best to use let for nearly all variable declarations. However, in situations where you do not want the data within a variable to change, "const" makese sense. Var could be used in cases maybe where you need to declare something within a code block but want to be able to affect it outside of the scope of said block. But generally, using "let" makes sense becuase it's scoped the block it was declared in.
+
+### Daily Project:
+ https://github.com/CyberTomB/js-test-basics

@@ -13,3 +13,7 @@ Google it first. Then ask for help from peers with more experience.
 Writing "why" comments rather than "what" is pretty big - the code should generally speak for itself as much as possible. Also being skeptical about where and why before writing conditional statements, and checking to see if your conditions can be written more simply.
 
 Also knowing data structures and which are appropriate to your project and why. This seems like something I'll understand more and better as time goes on but it's good to be paying attention to this information as we go forward.
+
+### Daily Project:
+
+https://github.com/CyberTomB/SlapGame

@@ -22,3 +22,6 @@ Parameters are placeholders that expect to receive data. Arguments are the data 
 ## What are higher order functions? Can you provide an example?
 
 A higher order function is a function that takes a function as an argument or returns a function. A good example might be the .find() method, which requires a callback function to perform an operation over an array.
+
+### Daily Project:
+ https://github.com/CyberTomB/more-js-challenges

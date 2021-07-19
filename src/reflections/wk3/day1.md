@@ -11,3 +11,5 @@ Export allows for multiple exported objects, while export default is reserved mo
 ## What is a benefit of using the Module System?
 
 It improves readability, performance, and allows information to be delineated based on function so that the code remains both focused and modular.
+
+Link: https://github.com/CyberTomB/animal-classes

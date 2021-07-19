@@ -11,3 +11,5 @@ The Subscribe method, the Unsubscribe method, and the Broadcast method.
 ## Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
 
 The EventEmitter object in the "Utils" of the BCW Template provides the methods needed to process events, identifying when information is affected on the DOM and enables instantaneous client-side updates.
+
+Project Link: https://github.com/CyberTomB/cjs-store

@@ -11,3 +11,5 @@ We need to ensure the value being returned by the default implementation of the 
 ## What are some of the benefits of the proxy object that we are using in our structure for applications?
 
 We can privatize the properties of objects, and set strict limitations on what information can be set to an object. In addition, we can provide custom error responses.
+
+Project Link: https://github.com/CyberTomB/gregslist-mvc

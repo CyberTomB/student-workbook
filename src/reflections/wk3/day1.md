@@ -12,4 +12,4 @@ Export allows for multiple exported objects, while export default is reserved mo
 
 It improves readability, performance, and allows information to be delineated based on function so that the code remains both focused and modular.
 
-Link: https://github.com/CyberTomB/animal-classes
+Project Link: https://github.com/CyberTomB/animal-classes

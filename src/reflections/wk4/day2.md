@@ -12,3 +12,5 @@ Rather than trying to maintain a strict sequencing of callbacks, we can use Prom
 ## What is the difference between .then() and .catch()?
 
 ".then()" is called when the Promise successfully returns, whereas ".catch()" is triggered when the Promise fails.
+
+Project Link: https://github.com/CyberTomB/pokedex

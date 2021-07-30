@@ -1,4 +1,4 @@
-# Intro to MongoDB (Week 5 Day 2)
+# Relationships (Week 5 Day 2)
 
 ## What are the three types of relationships?
 

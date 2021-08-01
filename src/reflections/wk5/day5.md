@@ -1,0 +1,4 @@
+# Week 5 Reflections (Week 5 Day 5)
+This week was a lot of fun, especially the culmination in the hackathon. I think I have a solid grasp of the basics when it comes to server-side code, but I could definitely do a lot more work to help myself more fully understand and appreciate the way data is stored in the DB and how that data is accessed in ways that create best practices in terms of performance.
+
+Looking forward to next week because it looks like we begin to work inside of Vue, which means we're working in non-vanilla Javascript, which seems much more widespread across the web dev industry of course.

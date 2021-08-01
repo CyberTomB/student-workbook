@@ -11,3 +11,5 @@ You could use virtuals to get properties from models without needing them to be 
 ## How do you search by a virtual properties value?
 
 You can use a "get" method to return the virtual's value.
+
+Project Link: https://github.com/john87barker/ReadIt

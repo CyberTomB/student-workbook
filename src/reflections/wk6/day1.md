@@ -11,3 +11,5 @@ The page can load and refresh relevant *parts* of your web page without requirin
 ## What are some drawbacks to Component based architecture?
 
 Because of the extreme mode of encapsulation, the readability of your overall code can go down. CBA is perhaps best utilized as a tool that handles only relevant aspects of your code, and not necessarily the structure on which the entire web application is built.
+
+Project Link: https://github.com/CyberTomB/playground

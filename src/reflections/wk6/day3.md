@@ -10,3 +10,5 @@ You can use these hooks to attach functionality to specific triggers within the 
 ## What are mounting hooks? When might you use them?
 
 Mounting hooks are lifecycle hooks that allow you to accdess a component before and after the first render. You would most likely use them to access or modify the DOM right before or after it is rendered.
+
+Project Link: https://github.com/CyberTomB/late-summer21-gregslist-vue

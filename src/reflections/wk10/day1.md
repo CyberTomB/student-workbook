@@ -28,4 +28,4 @@ There are more data types than seem to be in javascript, especially when it come
 
 Reference types point to a location in memory. When these variables are passed, the location that the reference type is pointing to stays the same, and thus the data contained inside that address in memory is changed.
 
-Project Link: https://github.com/CyberTomB/csharp-rock-paper-scissors
+### [Project Link](https://github.com/CyberTomB/csharp-rock-paper-scissors)

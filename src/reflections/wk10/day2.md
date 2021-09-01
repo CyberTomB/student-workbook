@@ -11,3 +11,5 @@ A List is is an IEnumerable data structure of any chosen type. Similar to an arr
 ## How would you retrieve an item from a list? What method could you use?
 
 .Find would return the item itself that I would look for. Or, at least, the first item in the list that matches the sought result (which would usually be equally useful). 
+
+Project Link: https://github.com/CyberTomB/csharp-gregslist

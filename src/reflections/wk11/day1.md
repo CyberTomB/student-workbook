@@ -1,4 +1,4 @@
-# C# Inheritance
+# C# Inheritance (Week 11 Day 1 (Tuesday))
 
 ## What does Inheritance accomplish for us in C#?
 

@@ -1,4 +1,4 @@
-# SQL Injections (Week 11 Day 3)
+# SQL Injections (Week 11 Day 1 (Thursday))
 
 ## What is SQL injection?
 
@@ -11,3 +11,5 @@ User input, modified cookies, and HTTP headers can be attack vectors.
 ## How can we detect and sanitize SQL injection attacks?
 
 We can use sanitizing procedures on incoming user inputs, run SQL attack tests on our own web applications, and minimize priveleges for our users' data access in general to reduce the potential for damages.
+
+*(No afternoon project)*
